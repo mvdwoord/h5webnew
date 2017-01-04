@@ -1,0 +1,6 @@
+baseurl = "http://hague5.nl/"
+languageCode = "en-us"
+title = "Hague 5"
+
+[params.carousel]
+    enable = true
